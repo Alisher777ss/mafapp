@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: mafiagame
+    env: python
+    buildCommand: ""
+    startCommand: "python app.py"
